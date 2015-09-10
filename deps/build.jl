@@ -32,8 +32,8 @@
 # CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 # *****************************************************************************
 
-Pkg.clone("https://github.com/sisl/RLESCAS.jl.git" "RLESCAS")
-Pkg.clone("https://github.com/sisl/CCAS.jl.git" "CCAS")
-Pkg.clone("https://github.com/sisl/RLES-SISLES.jl.git" "SISLES")
-Pkg.clone("https://github.com/sisl/AdaptiveStressTesting.jl.git" "AdaptiveStressTesting")
-Pkg.clone("https://github.com/sisl/RLESUtils.jl.git" "RLESUtils")
+Pkg.clone("https://github.com/sisl/RLESCAS.jl.git", "RLESCAS")
+Pkg.clone("https://github.com/sisl/CCAS.jl.git", "CCAS")
+Pkg.clone("https://github.com/sisl/RLES-SISLES.jl.git", "SISLES")
+Pkg.clone("https://github.com/sisl/AdaptiveStressTesting.jl.git", "AdaptiveStressTesting")
+Pkg.clone("https://github.com/sisl/RLESUtils.jl.git", "RLESUtils")
