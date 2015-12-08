@@ -33,6 +33,7 @@
 # *****************************************************************************
 
 Pkg.clone("https://github.com/sisl/RLESCAS.jl.git", "RLESCAS")
+Pkg.clone("https://github.com/sisl/CASInterface.jl.git", "CASInterface")
 Pkg.clone("https://github.com/sisl/CCAS.jl.git", "CCAS")
 Pkg.clone("https://github.com/sisl/RLES-SISLES.jl.git", "SISLES")
 Pkg.clone("https://github.com/sisl/AdaptiveStressTesting.jl.git", "AdaptiveStressTesting")
